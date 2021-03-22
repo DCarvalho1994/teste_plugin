@@ -1,0 +1,1 @@
+Sua licença é ${license}
